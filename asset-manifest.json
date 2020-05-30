@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/trblog/static/css/main.0614c977.chunk.css",
+    "main.js": "/trblog/static/js/main.4ebb9d70.chunk.js",
+    "main.js.map": "/trblog/static/js/main.4ebb9d70.chunk.js.map",
+    "runtime-main.js": "/trblog/static/js/runtime-main.aab8f7dc.js",
+    "runtime-main.js.map": "/trblog/static/js/runtime-main.aab8f7dc.js.map",
+    "static/js/2.6ea34cf6.chunk.js": "/trblog/static/js/2.6ea34cf6.chunk.js",
+    "static/js/2.6ea34cf6.chunk.js.map": "/trblog/static/js/2.6ea34cf6.chunk.js.map",
+    "index.html": "/trblog/index.html",
+    "precache-manifest.0b35371c31a576def2f40c15ab5c4a6c.js": "/trblog/precache-manifest.0b35371c31a576def2f40c15ab5c4a6c.js",
+    "service-worker.js": "/trblog/service-worker.js",
+    "static/css/main.0614c977.chunk.css.map": "/trblog/static/css/main.0614c977.chunk.css.map",
+    "static/js/2.6ea34cf6.chunk.js.LICENSE.txt": "/trblog/static/js/2.6ea34cf6.chunk.js.LICENSE.txt",
+    "static/media/let和const.md": "/trblog/static/media/let和const.4691c8a8.md",
+    "static/media/基础概念.md": "/trblog/static/media/基础概念.3ac1a2b9.md"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aab8f7dc.js",
+    "static/js/2.6ea34cf6.chunk.js",
+    "static/css/main.0614c977.chunk.css",
+    "static/js/main.4ebb9d70.chunk.js"
+  ]
+}
