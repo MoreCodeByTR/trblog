@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/trblog/static/css/main.438fcd59.chunk.css",
-    "main.js": "/trblog/static/js/main.cf2d85a6.chunk.js",
-    "main.js.map": "/trblog/static/js/main.cf2d85a6.chunk.js.map",
+    "main.js": "/trblog/static/js/main.80b4d7e6.chunk.js",
+    "main.js.map": "/trblog/static/js/main.80b4d7e6.chunk.js.map",
     "runtime-main.js": "/trblog/static/js/runtime-main.aab8f7dc.js",
     "runtime-main.js.map": "/trblog/static/js/runtime-main.aab8f7dc.js.map",
     "static/js/2.2f06bdbf.chunk.js": "/trblog/static/js/2.2f06bdbf.chunk.js",
     "static/js/2.2f06bdbf.chunk.js.map": "/trblog/static/js/2.2f06bdbf.chunk.js.map",
     "index.html": "/trblog/index.html",
-    "precache-manifest.4c0b6f177d37de0c1b080d60f6b7f3ac.js": "/trblog/precache-manifest.4c0b6f177d37de0c1b080d60f6b7f3ac.js",
+    "precache-manifest.e363aa1f7f4ed29509b0d93ef21b4e29.js": "/trblog/precache-manifest.e363aa1f7f4ed29509b0d93ef21b4e29.js",
     "service-worker.js": "/trblog/service-worker.js",
     "static/css/main.438fcd59.chunk.css.map": "/trblog/static/css/main.438fcd59.chunk.css.map",
     "static/js/2.2f06bdbf.chunk.js.LICENSE.txt": "/trblog/static/js/2.2f06bdbf.chunk.js.LICENSE.txt",
@@ -25,6 +25,6 @@
     "static/js/runtime-main.aab8f7dc.js",
     "static/js/2.2f06bdbf.chunk.js",
     "static/css/main.438fcd59.chunk.css",
-    "static/js/main.cf2d85a6.chunk.js"
+    "static/js/main.80b4d7e6.chunk.js"
   ]
 }
